@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS",
+      "allowJs": true,
+      "alwaysStrict": true,
+      "declaration": true,
+      "emitDeclarationOnly": true,
+    },
+    "files": ["./example.js"]
+}
