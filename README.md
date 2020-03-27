@@ -12,3 +12,7 @@ $ grep Internal tsdoc/modules/_example_.html
 ```
 
 In other words, the internal function bar from [example.js](example.js) got documented, although `--excludeNotExported` has been set.
+
+# Update
+
+[This is a well-known issue](https://github.com/TypeStrong/typedoc/issues/639).
